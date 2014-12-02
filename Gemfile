@@ -10,11 +10,11 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'bootstrap-sass'
 
-group: development, :test do
+group :development, :test do
 	gem 'sqlite3'
 end
 
-group: production do
+group :production do
 	gem 'pg'
 	gem 'rails_12factor'
 end
@@ -35,4 +35,3 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 	gem 'tzinfo-data', platforms: [:mingw, :mswin]
-end
