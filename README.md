@@ -1,6 +1,5 @@
 # One Month Rails
 
-This is te pinteresting sample application for
-[*One Month Rails*] (http://onemonthrails.com)
+This is te pinteresting sample for Vangolabs
 
 By Daniel Aguilar, [*Galponn*] (http://www.galponn.com): Financial Optimization
