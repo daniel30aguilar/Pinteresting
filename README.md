@@ -1,4 +1,4 @@
-# One Month Rails
+# Test-Practice Version
 
 This is the Pinteresting sample for Vangolabs.
 
