@@ -1,6 +1,4 @@
-# One Month Rails
+# OMR - TEST Practice Version
 
-This is te pinteresting sample application for
-[*One Month Rails*] (http://onemonthrails.com)
-
+This is the Pinteresting sample.
 By Daniel Aguilar, [*Galponn*] (http://www.galponn.com): Financial Optimization
